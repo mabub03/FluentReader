@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIReader (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIReader (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
